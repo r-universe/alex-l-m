@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "pmultinom"]
 	path = pmultinom
 	url = https://github.com/cran/pmultinom
-	shallow = true
-	registered = true
 [submodule "scquantum"]
 	path = scquantum
 	url = https://github.com/cran/scquantum
-	shallow = true
-	registered = true
